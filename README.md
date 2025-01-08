@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+For the first lunch
+1. open pubspec.yaml run pub get
+2. run the app
+
+```bash
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
